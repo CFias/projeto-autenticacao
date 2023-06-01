@@ -88,7 +88,7 @@
     h1 {
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         text-align: center;
-        color: rgb(0, 89, 255);
+        color: rgb(61, 115, 214);
         text-shadow: 0px 5px 10px rgba(0, 0, 0, 0.192);
     }
 
