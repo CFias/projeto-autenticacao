@@ -82,7 +82,7 @@
         width: 300px;
         height: 300px;
         border-radius: 15px;
-        box-shadow: 5px 15px 45px rgba(0, 0, 0, 0.26);
+        box-shadow: 5px 15px 45px rgba(36, 8, 8, 0.26);
     }
 
     h1 {
